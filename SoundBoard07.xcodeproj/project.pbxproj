@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7D5F29A1246DEB50005D1FE3 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7D5F29A0246DEB50005D1FE3 /* SoundViewController.swift */; };
 		7DEB9B1B246DE4C500FAAF11 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DEB9B1A246DE4C500FAAF11 /* AppDelegate.swift */; };
 		7DEB9B1D246DE4C500FAAF11 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7DEB9B1C246DE4C500FAAF11 /* ViewController.swift */; };
 		7DEB9B20246DE4C500FAAF11 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7DEB9B1E246DE4C500FAAF11 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7D5F29A0246DEB50005D1FE3 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 		7DEB9B17246DE4C500FAAF11 /* SoundBoard07.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SoundBoard07.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7DEB9B1A246DE4C500FAAF11 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7DEB9B1C246DE4C500FAAF11 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				7DEB9B1A246DE4C500FAAF11 /* AppDelegate.swift */,
 				7DEB9B1C246DE4C500FAAF11 /* ViewController.swift */,
 				7DEB9B1E246DE4C500FAAF11 /* Main.storyboard */,
+				7D5F29A0246DEB50005D1FE3 /* SoundViewController.swift */,
 				7DEB9B24246DE4C600FAAF11 /* Assets.xcassets */,
 				7DEB9B26246DE4C600FAAF11 /* LaunchScreen.storyboard */,
 				7DEB9B29246DE4C600FAAF11 /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7D5F29A1246DEB50005D1FE3 /* SoundViewController.swift in Sources */,
 				7DEB9B23246DE4C600FAAF11 /* SoundBoard07.xcdatamodeld in Sources */,
 				7DEB9B1D246DE4C500FAAF11 /* ViewController.swift in Sources */,
 				7DEB9B1B246DE4C500FAAF11 /* AppDelegate.swift in Sources */,
